@@ -2,7 +2,7 @@ import google.generativeai as palm
 import streamlit as st 
 from streamlit_chat import message
 
-palm.configure(api_key='AIzaSyCjW7wJ1OtSFarPv0BDWTJPae1OT2Rb_yk')
+palm.configure(api_key='Your_api')
 # Create a new conversation
 
 # Last contains the model's response:
